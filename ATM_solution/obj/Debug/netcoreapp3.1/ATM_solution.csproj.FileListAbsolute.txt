@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\bin\Debug\netcoreapp3.1\ATM_solution.exe
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\bin\Debug\netcoreapp3.1\ATM_solution.deps.json
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\bin\Debug\netcoreapp3.1\ATM_solution.runtimeconfig.json
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\bin\Debug\netcoreapp3.1\ATM_solution.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\bin\Debug\netcoreapp3.1\ATM_solution.dll
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\bin\Debug\netcoreapp3.1\ATM_solution.pdb
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\obj\Debug\netcoreapp3.1\ATM_solution.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\obj\Debug\netcoreapp3.1\ATM_solution.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\obj\Debug\netcoreapp3.1\ATM_solution.AssemblyInfo.cs
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\obj\Debug\netcoreapp3.1\ATM_solution.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\obj\Debug\netcoreapp3.1\ATM_solution.dll
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\obj\Debug\netcoreapp3.1\ATM_solution.pdb
+C:\Users\user\RiderProjects\ATM_solution\ATM_solution\obj\Debug\netcoreapp3.1\ATM_solution.genruntimeconfig.cache
